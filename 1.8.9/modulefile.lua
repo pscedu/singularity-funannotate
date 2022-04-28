@@ -31,6 +31,7 @@ For help, type
 Tools included in this module are
 
 * funannotate
+* Trinity
 ]])
 
 local package = "funannotate"
