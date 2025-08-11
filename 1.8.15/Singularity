@@ -8,3 +8,6 @@ From: nextgenusfs/funannotate:v1.8.15
     REPOSITORY https://github.com/pscedu/singularity-funannotate
     COPYRIGHT Copyright © 2022 Pittsburgh Supercomputing Center. All Rights Reserved.
     VERSION 1.8.15
+
+%runscript
+    funannotate
